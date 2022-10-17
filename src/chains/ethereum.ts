@@ -26,7 +26,7 @@ const chainConfig: ChainConfig = {
     deploymentBlock: 12780995,
   },
   treasury: {
-    address: '0xc851fbe0f07a326ce0326ccc70c2a62732e74d6c',
+    address: '0xE8A8B458BcD1Ececc6b6b58F80929b29cCecFF40',
     deploymentBlock: 12802679,
   },
   voting: {
